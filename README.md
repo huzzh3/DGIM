@@ -18,3 +18,7 @@
 - 如果你想要自定义数据流的大小，请修改 include/def.h 中的 STREAM_LENGTH 参数，并重新编译。
 - 如果你想要自定义窗口的大小，请修改 include/def.h 中的 WINDOW_SIZE 参数，并重新编译。
 - 如果你想要自定义查询长度，请修改 include/def.h 中的 QUERY_LENGTH 参数，并重新编译。
+
+# 4 博客地址
+
+https://www.arnohu.top/index.php/2022/04/16/advance-algorithm-design-1/
